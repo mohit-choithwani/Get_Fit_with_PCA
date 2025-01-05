@@ -5,3 +5,7 @@
 *.mkv
 
 frames/
+
+training_videos/
+
+extracted_landmarks.pkl
