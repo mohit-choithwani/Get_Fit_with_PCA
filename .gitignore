@@ -9,3 +9,7 @@ frames/
 training_videos/
 
 extracted_landmarks.pkl
+
+test_frames/
+
+test_corr_frames/
